@@ -1,0 +1,5 @@
+{
+  "name": "KTET-App",
+  "description": "A comprehensive exam preparation platform featuring adaptive quizzes, weak-zone analysis, and robust admin management for syllabus and question banks.",
+  "requestFramePermissions": []
+}
